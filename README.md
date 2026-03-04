@@ -1,2 +1,6 @@
-# nudge-dashboard
-semi prototype
+# nudge-dashboard ** semi prototype ** 
+1. git clone
+2. npm install
+3. npm run dev
+4. 
+
