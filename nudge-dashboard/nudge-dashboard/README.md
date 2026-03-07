@@ -16,7 +16,7 @@ A financial guardian app built with React + Vite + Tailwind CSS.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/nudge-dashboard.git
+git clone 
 cd nudge-dashboard
 ```
 
